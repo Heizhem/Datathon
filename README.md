@@ -1,6 +1,17 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
 ​
+# <h1> Acerca del repocitorio
+
+## A continuacion se describe cada notebook.
+
+* eda: notebook dinde se realiza el eda
+* transformacion: se realizan las respécntivas codificaciones de las columnas sergun el tipo de dato
+* transformacion_test: se realiza la transformacio de el dataset hospital_test para crear el dataset pred con las predicciones
+* feature_engeneering: se analizan los feature optimos para realizar el modelo
+* modelado: conta de la normalizacion , reduccion de mencionalidad por pca, los distintos modelos que probe y la creacion de las predicciones
+
+
 # <h1 align="center">**`Proyecto Individual 2`**
 
 <p align="center">
