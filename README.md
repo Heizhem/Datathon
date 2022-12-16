@@ -5,7 +5,7 @@
 
 ## A continuacion se describe cada notebook.
 
-* eda: notebook dinde se realiza el eda
+* eda: notebook donde se realiza el eda
 * transformacion: se realizan las respécntivas codificaciones de las columnas sergun el tipo de dato
 * transformacion_test: se realiza la transformacio de el dataset hospital_test para crear el dataset pred con las predicciones
 * feature_engeneering: se analizan los feature optimos para realizar el modelo
