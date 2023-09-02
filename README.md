@@ -1,20 +1,5 @@
-# <h1> Acerca del repocitorio
-
-## A continuacion se describe cada notebook.
-
-* eda: notebook donde se realiza el eda
-* transformacion: se realizan las respécntivas codificaciones de las columnas sergun el tipo de dato
-* transformacion_test: se realiza la transformacio de el dataset hospital_test para crear el dataset pred con las predicciones
-* feature_engeneering: se analizan los features optimos para realizar el modelo
-* modelado: conta de la normalizacion , reduccion de mencionalidad por pca, los distintos modelos que probe y la creacion de las predicciones
-
-
 # <h1 align="center">**`Proyecto Individual 2`**
 ​
-## **Información relevante**
-​
-Este proyecto es una instancia de evaluación, por lo cual es INDIVIDUAL y OBLIGATORIO para los alumnos de Data Science de Henry. Se disponibilizará un Google Form y pueden cargarse los resultados las veces que quieran. Es obligatorio que todos disponibilicen el código utilizado, para validar los modelos construidos.
-
 ## 🏥 **Estancia hospitalaria** 🏥
 
 La hospitalización, o estancia hospitalaria, cuando es prolongada constituye una preocupación a nivel mundial debido a sus efectos negativos en el sistema de salud, aumentando los costos, generando deficiencia en la accesibilidad de prestación de servicios de salud, saturación de unidades de hospitalización y urgencias, por consiguiente, mayores efectos adversos como lo son las enfermedades intrahospitalarias.
